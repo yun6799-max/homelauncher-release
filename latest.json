@@ -1,6 +1,6 @@
 {
-  "version": "2.0.2",
-  "apk": "apk/homelauncher-2.0.2.apk",
-  "sha256": "c230e4d2e83f45f02d12ba69aee0b5edb5c818ff0d5bf8a52a6647f5cd8e2c4a",
-  "notes": "설정의 업데이트 카드에 'Play 프로텍트 설정 열기' 버튼 추가"
+  "version": "2.0.3",
+  "apk": "apk/homelauncher-2.0.3.apk",
+  "sha256": "bdd961d722d989deee095ce7fd464089f943a10b61bb45acf0d7fd03bccdbcfc",
+  "notes": "문자 앱 숫자를 문자함의 안 읽은 개수로 표시(설정 > '문자 안 읽은 개수'에서 권한 허용) — 내용은 읽지 않고 개수만 셈 / 설정의 업데이트 카드에 'Play 프로텍트 설정 열기' 버튼"
 }
