@@ -1,6 +1,6 @@
 {
-  "version": "1.8.1",
-  "apk": "apk/homelauncher-1.8.1.apk",
-  "sha256": "4f1e5fc74bfc0e1be41f5f4d5bf18035e2d2907ff1bbc056592e4c86d45e3eeb",
-  "notes": "디엘노트·선상24체크·스마트싱스·TMAP·안전신문고를 삼성 홈처럼 그룹 밖 낱개 아이콘으로 꺼냄"
+  "version": "1.8.2",
+  "apk": "apk/homelauncher-1.8.2.apk",
+  "sha256": "c568c9d29beeed84fa57df4c6d15bc0bf6c72a9fee08055bf4f830f1425813c4",
+  "notes": "아이콘을 끌어 그룹 위에 놓으면 '이 그룹 안에 넣기 / 이 자리로 옮기기'를 고르게 함"
 }
