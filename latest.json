@@ -1,6 +1,6 @@
 {
-  "version": "1.5.2",
-  "apk": "apk/homelauncher-1.5.2.apk",
-  "sha256": "5929e79a096dc52c0d51ac4a9bb2f3fcd7626d2a130f47a218640ad148a20b70",
-  "notes": "앱 아이콘 뒤 타일 제거(그룹만 타일 모양)"
+  "version": "1.5.3",
+  "apk": "apk/homelauncher-1.5.3.apk",
+  "sha256": "2fab399e1b377d1f65de36187e63c50185324f7e534a899d4579cb268290038b",
+  "notes": "앱 고르는 창에 검색과 아이콘 추가, 위젯을 길게 눌러 크기 조정·순서·빼기, 오늘 일정 카드 숨기기"
 }
