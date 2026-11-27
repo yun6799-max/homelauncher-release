@@ -1,6 +1,6 @@
 {
-  "version": "1.6.6",
-  "apk": "apk/homelauncher-1.6.6.apk",
-  "sha256": "cfd9d5ae3ecd7a23ba3630fff15c76e5c2faa5227c64de5ce2fa50aecb1ab308",
-  "notes": "업데이트 카드에 '보안 위험 자동 차단 설정 열기' 버튼 추가, 업데이트 뒤 다시 켜기 안내"
+  "version": "1.6.7",
+  "apk": "apk/homelauncher-1.6.7.apk",
+  "sha256": "f427e75a4fa745ecfe96a511b3b6b3113d6f12c9227f1c060e068bea67e1eba3",
+  "notes": "아이콘 크기와 줄 간격을 삼성 기본 홈과 같은 비율로(가로 5 · 세로 6) / 업데이트 뒤 바뀐 내용을 잠깐 보여 줌"
 }
