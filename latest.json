@@ -1,6 +1,6 @@
 {
-  "version": "1.9.0",
-  "apk": "apk/homelauncher-1.9.0.apk",
-  "sha256": "ba9c52ed887516c0505ca9214e23f73f03988966a3ea9c9baaa7cac89ec319af",
-  "notes": "빈 곳 길게 누른 메뉴에 '빈칸 없이 앞으로 당기기' 추가 / 앱 길게 누른 메뉴에서 '그룹 목록에서 골라 넣기' 제거"
+  "version": "1.9.1",
+  "apk": "apk/homelauncher-1.9.1.apk",
+  "sha256": "2401844cf20cfe0515d3c30672856cf170eaeb1242c426e7f47f1a0a08228341",
+  "notes": "앱을 열면 누른 아이콘 자리에서 화면 전체로 커지고, 홈으로 돌아오면 그 자리로 줄어드는 모션 추가"
 }
