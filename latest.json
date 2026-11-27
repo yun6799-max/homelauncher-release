@@ -1,6 +1,6 @@
 {
-  "version": "1.9.4",
-  "apk": "apk/homelauncher-1.9.4.apk",
-  "sha256": "a98884d1d93479dceb08df494843e00c2f8ec2231888200aaec334b7a92fcb14",
-  "notes": "앱을 켤 때 확대 뒤에 축소까지 나오던 문제 수정: 켤 때는 확대만, 홈으로 돌아올 때만 축소"
+  "version": "1.9.5",
+  "apk": "apk/homelauncher-1.9.5.apk",
+  "sha256": "989fbc01cfe9af6ba492e443918b1337fc021eb052078b5510b33553e200c309",
+  "notes": "그룹 안에서 앱을 길게 눌러 끌면 순서를 바꿀 수 있음(제자리에서 떼면 메뉴)"
 }
