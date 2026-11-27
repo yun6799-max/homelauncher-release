@@ -1,6 +1,6 @@
 {
-  "version": "1.8.9",
-  "apk": "apk/homelauncher-1.8.9.apk",
-  "sha256": "3c22c6b9c577eceebaeacff167fac14990c39edf203f2c5dfa76222f689a3425",
-  "notes": "앱을 열 때 누른 아이콘 자리에서 펼쳐지게, 홈으로 돌아올 때 좌우 밀기 대신 홈 화면 전환을 쓰도록 시도(기본 홈으로 설정했을 때)"
+  "version": "1.9.0",
+  "apk": "apk/homelauncher-1.9.0.apk",
+  "sha256": "ba9c52ed887516c0505ca9214e23f73f03988966a3ea9c9baaa7cac89ec319af",
+  "notes": "빈 곳 길게 누른 메뉴에 '빈칸 없이 앞으로 당기기' 추가 / 앱 길게 누른 메뉴에서 '그룹 목록에서 골라 넣기' 제거"
 }
