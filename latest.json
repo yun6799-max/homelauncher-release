@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "apk": "apk/homelauncher-1.2.0.apk",
-  "sha256": "09e8c8c93e2168950dfa6a2be3670eb54ba63f54b6ef503df9e8f6c0994af2df",
-  "notes": "안 읽은 알림 숫자 배지(설정에서 알림 접근 허용 필요), '기본 화면처럼' 스타일을 기본값으로"
+  "version": "1.3.0",
+  "apk": "apk/homelauncher-1.3.0.apk",
+  "sha256": "17f0c123430e0c28029ea46c7209a0617e06ca128164c416e1d67fa76e868180",
+  "notes": "배치 내보내기·가져오기(편집 페이지에서 끌어서 배치한 뒤 적용)"
 }
