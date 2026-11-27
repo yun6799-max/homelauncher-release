@@ -1,6 +1,6 @@
 {
-  "version": "1.6.9",
-  "apk": "apk/homelauncher-1.6.9.apk",
-  "sha256": "54fc02804a28c6c782f3411ec627cb6937d2024ed73c8386f4b1952d986cba7a",
-  "notes": "앱 화면에서 병원 업무 분류를 맨 뒤로 보냄"
+  "version": "1.7.0",
+  "apk": "apk/homelauncher-1.7.0.apk",
+  "sha256": "ca85bff8785bf11ba726ed0201c733ca7c69e94ef98c5d1dd1a5afd5d93aa5c6",
+  "notes": "여러 개 골라 한꺼번에 옮기기(길게 누르기 > 여러 개 골라 옮기기) / 옮기는 중에 그룹을 누르면 그 안에 바로 넣기"
 }
