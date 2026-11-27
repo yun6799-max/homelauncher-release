@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "apk": "apk/homelauncher-1.0.1.apk",
-  "sha256": "e1472b246d36a667d1e28025c2cf96459807ba25aace696348d5e03acd86c1e0",
-  "notes": "배경이 어둡게 나오던 오류 수정, 빙하·라일락 배경 그림, 테마 아이콘 타일"
+  "version": "1.1.0",
+  "apk": "apk/homelauncher-1.1.0.apk",
+  "sha256": "e55302977dc15b20559535a7d52d25da0bdcc70e27ed01ad41e75a701e659feb",
+  "notes": "5칸 홈 화면과 쪽 넘김, 그룹(지금 홈 화면의 그룹 이름 기본값), 바꿀 수 있는 하단 바 5칸, 자리 옮기기"
 }
