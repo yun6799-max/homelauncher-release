@@ -1,6 +1,6 @@
 {
-  "version": "1.6.7",
-  "apk": "apk/homelauncher-1.6.7.apk",
-  "sha256": "f427e75a4fa745ecfe96a511b3b6b3113d6f12c9227f1c060e068bea67e1eba3",
-  "notes": "아이콘 크기와 줄 간격을 삼성 기본 홈과 같은 비율로(가로 5 · 세로 6) / 업데이트 뒤 바뀐 내용을 잠깐 보여 줌"
+  "version": "1.6.8",
+  "apk": "apk/homelauncher-1.6.8.apk",
+  "sha256": "b7a8589a9985ddd7378d83415142b7174a41db98bb88b53c8b75833bdebd92e1",
+  "notes": "앱에서 홈으로 돌아올 때 좌우로 밀리지 않고 앱이 아래로 모이며 줄어들게"
 }
