@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0",
-  "apk": "apk/homelauncher-2.0.0.apk",
-  "sha256": "4a2d16ad06a426517a73459348924788daddc0c317b73b8436efd4e195ad358b",
-  "notes": "아이콘과 그룹에 안 읽은 알림 숫자 표시(설정 > '안 읽은 알림 숫자'에서 알림 접근 허용 필요) / 이 버전부터 설치할 때 Play 프로텍트 앱 검사를 잠깐 꺼야 함"
+  "version": "2.0.1",
+  "apk": "apk/homelauncher-2.0.1.apk",
+  "sha256": "2de6d40066d2dd50f4d567fd58f5c1d2ad4aecd6e8c6058672ecc56becd8138e",
+  "notes": "카카오톡처럼 앱이 직접 알려 주는 안 읽은 개수(삼성 배지)도 읽어서 표시 / 업데이트 확인이 올린 직후에도 바로 반영되게"
 }
