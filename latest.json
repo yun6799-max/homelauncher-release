@@ -1,6 +1,6 @@
 {
-  "version": "1.5.3",
-  "apk": "apk/homelauncher-1.5.3.apk",
-  "sha256": "2fab399e1b377d1f65de36187e63c50185324f7e534a899d4579cb268290038b",
-  "notes": "앱 고르는 창에 검색과 아이콘 추가, 위젯을 길게 눌러 크기 조정·순서·빼기, 오늘 일정 카드 숨기기"
+  "version": "1.5.4",
+  "apk": "apk/homelauncher-1.5.4.apk",
+  "sha256": "b62c3c17bd897ee72db476db7c7979880db2273d35db57383c493e51df5f00be",
+  "notes": "앱 안 업데이트 실패(Self update is blocked) 수정: 받은 파일을 안드로이드 기본 설치 화면으로 넘겨 설치"
 }
