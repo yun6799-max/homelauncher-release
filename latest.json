@@ -1,6 +1,6 @@
 {
-  "version": "1.9.3",
-  "apk": "apk/homelauncher-1.9.3.apk",
-  "sha256": "337d084d3c5dce1ef34921a06a0410a9ffd1076a5eda4e1cd177a24e66701b90",
-  "notes": "빈 곳을 길게 누른 메뉴의 오른쪽 위에 '런처 설정' 버튼 배치, 메뉴 순서 정리"
+  "version": "1.9.4",
+  "apk": "apk/homelauncher-1.9.4.apk",
+  "sha256": "a98884d1d93479dceb08df494843e00c2f8ec2231888200aaec334b7a92fcb14",
+  "notes": "앱을 켤 때 확대 뒤에 축소까지 나오던 문제 수정: 켤 때는 확대만, 홈으로 돌아올 때만 축소"
 }
