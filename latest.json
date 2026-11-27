@@ -1,6 +1,6 @@
 {
-  "version": "1.6.5",
-  "apk": "apk/homelauncher-1.6.5.apk",
-  "sha256": "fbf6e66ab794b9636c7827e911a4ae5be6665c8ca843ced77d33bd6ea6e8c9af",
-  "notes": "그룹 정리: 쇼핑 / 포인트·멤버십, 사진·영상, 미식·와인, 도구, 네이버 / 구글, 영상·음악, 스마트홈, 내 앱, 통신 (이전 배치는 기록에서 되돌릴 수 있음)"
+  "version": "1.6.6",
+  "apk": "apk/homelauncher-1.6.6.apk",
+  "sha256": "cfd9d5ae3ecd7a23ba3630fff15c76e5c2faa5227c64de5ce2fa50aecb1ab308",
+  "notes": "업데이트 카드에 '보안 위험 자동 차단 설정 열기' 버튼 추가, 업데이트 뒤 다시 켜기 안내"
 }
