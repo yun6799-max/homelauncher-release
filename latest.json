@@ -1,6 +1,6 @@
 {
-  "version": "2.0.1",
-  "apk": "apk/homelauncher-2.0.1.apk",
-  "sha256": "2de6d40066d2dd50f4d567fd58f5c1d2ad4aecd6e8c6058672ecc56becd8138e",
-  "notes": "카카오톡처럼 앱이 직접 알려 주는 안 읽은 개수(삼성 배지)도 읽어서 표시 / 업데이트 확인이 올린 직후에도 바로 반영되게"
+  "version": "2.0.2",
+  "apk": "apk/homelauncher-2.0.2.apk",
+  "sha256": "c230e4d2e83f45f02d12ba69aee0b5edb5c818ff0d5bf8a52a6647f5cd8e2c4a",
+  "notes": "설정의 업데이트 카드에 'Play 프로텍트 설정 열기' 버튼 추가"
 }
