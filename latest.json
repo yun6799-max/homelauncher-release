@@ -1,6 +1,6 @@
 {
-  "version": "1.4.2",
-  "apk": "apk/homelauncher-1.4.2.apk",
-  "sha256": "bb481a4ee1a779f46dcb963b32d547f6146a77cfb5992e24b4b4f6da4ec8cc43",
-  "notes": "앱 안 업데이트 설치 실패(Self update) 수정, 설정 화면에서 보던 위치 유지"
+  "version": "1.5.0",
+  "apk": "apk/homelauncher-1.5.0.apk",
+  "sha256": "df72af73b1e67b4ea325cda09dc6ddd605826ddf2bf66565042445906f0d4427",
+  "notes": "Play 프로텍트 설치 차단 해결을 위해 알림 숫자 기능과 알림 접근 권한 제거"
 }
