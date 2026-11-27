@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "apk": "apk/homelauncher-1.0.0.apk",
-  "sha256": "11c4f2beec7f5627f61bb448bd84faff6e3fedb0f90e98be5e755c6d0c3aa4bb",
-  "notes": "첫 버전 — 테마 6종, 앱 자동 분류, 자동 숨김, 되돌리기·휴지통·삭제 기록, 배치 백업, 삼성 월렛 양보, 앱 안 업데이트"
+  "version": "1.0.1",
+  "apk": "apk/homelauncher-1.0.1.apk",
+  "sha256": "e1472b246d36a667d1e28025c2cf96459807ba25aace696348d5e03acd86c1e0",
+  "notes": "배경이 어둡게 나오던 오류 수정, 빙하·라일락 배경 그림, 테마 아이콘 타일"
 }
