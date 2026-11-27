@@ -1,6 +1,6 @@
 {
-  "version": "1.8.2",
-  "apk": "apk/homelauncher-1.8.2.apk",
-  "sha256": "c568c9d29beeed84fa57df4c6d15bc0bf6c72a9fee08055bf4f830f1425813c4",
-  "notes": "아이콘을 끌어 그룹 위에 놓으면 '이 그룹 안에 넣기 / 이 자리로 옮기기'를 고르게 함"
+  "version": "1.8.3",
+  "apk": "apk/homelauncher-1.8.3.apk",
+  "sha256": "0aeb29579bdbfe1fd233e66bc262bf00898df974bee2dba97d78db84dd197a8a",
+  "notes": "'자주 쓰는' 그룹을 삼성 폴더 내용대로 채움 / 그룹 창의 글자 버튼을 없애고 제목을 누르면 이름 수정, + 로 앱 넣고 빼기(그룹 삭제는 길게 누른 메뉴에만)"
 }
