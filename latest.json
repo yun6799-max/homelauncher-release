@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "apk": "apk/homelauncher-1.4.0.apk",
-  "sha256": "c7a181c03b6551f2a77a3ec4b7763711ee57f635569cd1a585822dcc579db34b",
-  "notes": "홈 화면 위젯 추가(시계 쪽에 올라가요), 빙하 테마 시계 겹침 수정"
+  "version": "1.4.2",
+  "apk": "apk/homelauncher-1.4.2.apk",
+  "sha256": "bb481a4ee1a779f46dcb963b32d547f6146a77cfb5992e24b4b4f6da4ec8cc43",
+  "notes": "앱 안 업데이트 설치 실패(Self update) 수정, 설정 화면에서 보던 위치 유지"
 }
