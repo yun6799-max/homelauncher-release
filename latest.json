@@ -1,6 +1,6 @@
 {
-  "version": "1.9.2",
-  "apk": "apk/homelauncher-1.9.2.apk",
-  "sha256": "24f298ff050cd3e02d92fb90dda893401cfc8a3d1b910bb35bc00d7ee6cff220",
-  "notes": "앱을 열면 누른 아이콘 자리에서 화면 전체로 커지고, 홈으로 돌아오면 그 자리로 줄어드는 모션 추가 / 앱이 안 열릴 때 화면이 가려진 채 남지 않게 안전장치"
+  "version": "1.9.3",
+  "apk": "apk/homelauncher-1.9.3.apk",
+  "sha256": "337d084d3c5dce1ef34921a06a0410a9ffd1076a5eda4e1cd177a24e66701b90",
+  "notes": "빈 곳을 길게 누른 메뉴의 오른쪽 위에 '런처 설정' 버튼 배치, 메뉴 순서 정리"
 }
