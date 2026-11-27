@@ -1,6 +1,6 @@
 {
-  "version": "1.6.1",
-  "apk": "apk/homelauncher-1.6.1.apk",
-  "sha256": "01ecd6c27554f6c4234dd46e88afd59939946aa101b2c8df052f541d836340cc",
-  "notes": "쓸어올린 앱 화면 맨 위에 자주 쓰는 앱 5개 표시"
+  "version": "1.6.2",
+  "apk": "apk/homelauncher-1.6.2.apk",
+  "sha256": "40af3e801181e21083466f5208c223b191c03bf7f3e27413c1cb3b01e6361419",
+  "notes": "업데이트 버튼을 하나로 합침: 누르면 확인하고 새 버전이 있으면 바로 설치 화면으로 넘어감"
 }
