@@ -1,6 +1,6 @@
 {
-  "version": "1.6.3",
-  "apk": "apk/homelauncher-1.6.3.apk",
-  "sha256": "d6e8c8003e126267c31f436c6d78f29a57dca15b6c1d16f7f50d9a1ccbbcc180",
-  "notes": "쪽 순서 바꾸기 추가(설정 또는 빈 곳 길게 누르기) / 2쪽과 3쪽 자리 바꿈 / 그룹 칸의 테마색 테두리 띠 제거"
+  "version": "1.6.4",
+  "apk": "apk/homelauncher-1.6.4.apk",
+  "sha256": "4c63e990b34d671184ca04b9f10a9ba17e2a2927bb785795cfb9d68aa3c86123",
+  "notes": "앱 아이콘 모양을 전부 같은 둥근 네모로 통일 (설정 > 아이콘에서 동그라미로도 바꿀 수 있음)"
 }
