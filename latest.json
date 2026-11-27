@@ -1,6 +1,6 @@
 {
-  "version": "1.6.8",
-  "apk": "apk/homelauncher-1.6.8.apk",
-  "sha256": "b7a8589a9985ddd7378d83415142b7174a41db98bb88b53c8b75833bdebd92e1",
-  "notes": "앱에서 홈으로 돌아올 때 좌우로 밀리지 않고 앱이 아래로 모이며 줄어들게"
+  "version": "1.6.9",
+  "apk": "apk/homelauncher-1.6.9.apk",
+  "sha256": "54fc02804a28c6c782f3411ec627cb6937d2024ed73c8386f4b1952d986cba7a",
+  "notes": "앱 화면에서 병원 업무 분류를 맨 뒤로 보냄"
 }
