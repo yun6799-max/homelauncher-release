@@ -1,6 +1,6 @@
 {
-  "version": "1.8.4",
-  "apk": "apk/homelauncher-1.8.4.apk",
-  "sha256": "b49fce3a41397ef943b29f054999d38933b59b9de8f0d7263b4721713cce5fe9",
-  "notes": "홈 한 쪽을 세로 7줄로(아래 빈 공간에 한 줄 더)"
+  "version": "1.8.5",
+  "apk": "apk/homelauncher-1.8.5.apk",
+  "sha256": "7e198a3feeb7d8c30e6b43070e84422f44e223aea1e8032a440a3e8504e8826f",
+  "notes": "'여행/호텔' 그룹을 삼성 폴더 내용대로 다시 만듦 / 옮기는 중 안내 막대를 위가 아니라 하단 바 자리에 띄워 아래 줄이 가려지지 않게"
 }
