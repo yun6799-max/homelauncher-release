@@ -1,6 +1,6 @@
 {
-  "version": "2.0.5",
-  "apk": "apk/homelauncher-2.0.5.apk",
-  "sha256": "13cd8ae3abd64d3af2eeb08f404282c86dcf44753ef531e9e5e2b7c4cffb72f6",
-  "notes": "앱 화면에서 검색해 앱을 열고 돌아오거나 홈으로 나가면 검색어를 자동으로 비움"
+  "version": "2.0.6",
+  "apk": "apk/homelauncher-2.0.6.apk",
+  "sha256": "c6c51621a871a8a1f4d3d931b6502467ab7094e2c873a0248b08f3499bc9b3a6",
+  "notes": "앱 화면의 자주 쓰는 앱 아래에 최근 사용 앱 한 줄 추가"
 }
