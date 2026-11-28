@@ -1,6 +1,6 @@
 {
-  "version": "2.0.3",
-  "apk": "apk/homelauncher-2.0.3.apk",
-  "sha256": "bdd961d722d989deee095ce7fd464089f943a10b61bb45acf0d7fd03bccdbcfc",
-  "notes": "문자 앱 숫자를 문자함의 안 읽은 개수로 표시(설정 > '문자 안 읽은 개수'에서 권한 허용) — 내용은 읽지 않고 개수만 셈 / 설정의 업데이트 카드에 'Play 프로텍트 설정 열기' 버튼"
+  "version": "2.0.4",
+  "apk": "apk/homelauncher-2.0.4.apk",
+  "sha256": "b3283070ecca0b7c743e47a82a71757901f5b564a8cc7c1455fb30aaeb681381",
+  "notes": "앱 화면의 검색창과 정렬 버튼을 아래쪽(분류 탭 바로 위)으로 옮김"
 }
