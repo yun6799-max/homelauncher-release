@@ -1,6 +1,6 @@
 {
-  "version": "2.0.4",
-  "apk": "apk/homelauncher-2.0.4.apk",
-  "sha256": "b3283070ecca0b7c743e47a82a71757901f5b564a8cc7c1455fb30aaeb681381",
-  "notes": "앱 화면의 검색창과 정렬 버튼을 아래쪽(분류 탭 바로 위)으로 옮김"
+  "version": "2.0.5",
+  "apk": "apk/homelauncher-2.0.5.apk",
+  "sha256": "13cd8ae3abd64d3af2eeb08f404282c86dcf44753ef531e9e5e2b7c4cffb72f6",
+  "notes": "앱 화면에서 검색해 앱을 열고 돌아오거나 홈으로 나가면 검색어를 자동으로 비움"
 }
